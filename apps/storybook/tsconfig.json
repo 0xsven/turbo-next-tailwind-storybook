@@ -1,0 +1,5 @@
+{
+  "extends": "tsconfig/nextjs.json",
+  "exclude": ["node_modules", ".next", "out", "storybook-static"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx"]
+}

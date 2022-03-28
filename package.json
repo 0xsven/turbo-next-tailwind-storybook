@@ -1,0 +1,16 @@
+{
+  "name": "turbo-next-storybook-tailwind",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "turbo run build",
+    "dev": "turbo run dev --parallel"
+  },
+  "workspaces": [
+    "packages/*",
+    "apps/*"
+  ],
+  "dependencies": {
+    "turbo": "^1.1.10"
+  },
+  "packageManager": "npm@8.1.2"
+}

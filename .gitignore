@@ -1,0 +1,13 @@
+node_modules
+.next
+.nexus
+.env
+.env.local
+.tmp_build
+.DS_Store
+dist
+app-with-env.yaml
+.plan
+storybook-static
+.turbo
+tsconfig.tsbuildinfo

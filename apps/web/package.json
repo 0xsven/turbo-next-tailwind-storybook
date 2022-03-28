@@ -1,0 +1,23 @@
+{
+  "name": "web",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "dependencies": {
+    "next": "^12.1.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "ui": "*"
+  },
+  "devDependencies": {
+    "@types/react": "^17.0.43",
+    "next-transpile-modules": "^9.0.0",
+    "tsconfig": "*",
+    "typescript": "^4.6.3"
+  }
+}
