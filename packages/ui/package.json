@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "dev": "npx tailwindcss -w -c ./tailwind.config.js -i ./styles/input.css -o ./styles/output.css"
+    "dev": "tailwindcss -w -c ./tailwind.config.js -i ./styles/input.css -o ./styles/output.css"
   },
   "devDependencies": {
     "tailwindcss": "^3.0.23",

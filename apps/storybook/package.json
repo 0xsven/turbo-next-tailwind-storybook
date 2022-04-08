@@ -2,7 +2,7 @@
   "name": "storybook",
   "private": true,
   "scripts": {
-    "dev": "start-storybook -p 6006"
+    "dev:storybook": "start-storybook -p 6006"
   },
   "dependencies": {
     "css-loader": "^5.2.7",
